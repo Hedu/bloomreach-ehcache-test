@@ -1,0 +1,8 @@
+/content/documents/bloomreacharchetype13.3.0:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 058b7d37-b900-48da-aa8b-22f7b3a4a374
+  hippo:name: My Project
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814
+  hippotranslation:locale: en

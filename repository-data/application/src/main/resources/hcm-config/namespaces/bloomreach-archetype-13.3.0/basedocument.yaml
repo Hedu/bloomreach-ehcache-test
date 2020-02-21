@@ -1,0 +1,15 @@
+definitions:
+  config:
+    /hippo:namespaces/bloomreacharchetype13.3.0/basedocument:
+      jcr:primaryType: hipposysedit:templatetype
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8a5afbaf-dfea-48bc-bf4e-9abec28fd29a
+      /hipposysedit:nodetype:
+        jcr:primaryType: hippo:handle
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 8aea661c-c18b-4474-81d9-1efb0464a38b
+        /hipposysedit:nodetype:
+          jcr:primaryType: hipposysedit:nodetype
+          jcr:mixinTypes: ['hipposysedit:remodel']
+          hipposysedit:supertype: ['hippo:document', 'hippostdpubwf:document', 'hippostd:publishableSummary']
+          hipposysedit:uri: http://www.bloomreacharchetype13.3.0.com/bloomreacharchetype13.3.0/nt/1.0

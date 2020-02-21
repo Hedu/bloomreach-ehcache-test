@@ -1,0 +1,49 @@
+/content/documents/bloomreacharchetype13.3.0/test-test:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+  jcr:uuid: 403f1be2-3df5-4d29-8e89-bc2c3eeac8f5
+  hippo:name: test test
+  hippo:versionHistory: df7e34ab-5ca4-40d5-958c-fdd40505be2b
+  /test-test[1]:
+    jcr:primaryType: bloomreacharchetype13.3.0:test
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 1e224d40-deb5-4844-9f27-3a3fdbf65c00
+    bloomreacharchetype13.3.0:text: text
+    bloomreacharchetype13.3.0:title: title
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2020-02-21T10:39:23.044+01:00
+    hippostdpubwf:lastModificationDate: 2020-02-21T10:39:23.044+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: fa9934e1-76b3-4d20-b124-9a2e0d546856
+    hippotranslation:locale: en
+  /test-test[2]:
+    jcr:primaryType: bloomreacharchetype13.3.0:test
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: 7294c267-7f10-4108-a2b9-c7be064946f3
+    bloomreacharchetype13.3.0:text: text
+    bloomreacharchetype13.3.0:title: title
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2020-02-21T10:39:23.044+01:00
+    hippostdpubwf:lastModificationDate: 2020-02-21T10:39:31.455+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: fa9934e1-76b3-4d20-b124-9a2e0d546856
+    hippotranslation:locale: en
+  /test-test[3]:
+    jcr:primaryType: bloomreacharchetype13.3.0:test
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 125e6a95-5eda-4ac6-b7db-c7f4b884bb67
+    bloomreacharchetype13.3.0:text: text
+    bloomreacharchetype13.3.0:title: title
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2020-02-21T10:39:23.044+01:00
+    hippostdpubwf:lastModificationDate: 2020-02-21T10:39:31.455+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippostdpubwf:publicationDate: 2020-02-21T10:39:36.756+01:00
+    hippotranslation:id: fa9934e1-76b3-4d20-b124-9a2e0d546856
+    hippotranslation:locale: en

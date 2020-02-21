@@ -1,0 +1,15 @@
+/content/documents/bloomreacharchetype13.3.0/test:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: 0f3a131b-1181-4310-856f-09a56e1c6101
+  /test:
+    jcr:primaryType: selection:valuelist
+    jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: 070a7eeb-fb26-4c8c-800a-88c4c3dc58c9
+    hippo:availability: [live, preview]
+    hippotranslation:id: 67f67e68-2357-48de-9fcf-c961b215e03c
+    hippotranslation:locale: en
+    /selection:listitem:
+      jcr:primaryType: selection:listitem
+      selection:key: key
+      selection:label: value

@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/bloomreacharchetype13.3.0/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /bloomreacharchetype13.3.0-catalog:
+        jcr:primaryType: hst:containeritempackage

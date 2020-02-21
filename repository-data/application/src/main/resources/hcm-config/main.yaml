@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    bloomreacharchetype13.3.0:
+      uri: http://www.bloomreacharchetype13.3.0.com/bloomreacharchetype13.3.0/nt/1.0
+      cnd: namespaces/bloomreach-archetype-13.3.0.cnd

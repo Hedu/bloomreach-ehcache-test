@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/bloomreacharchetype13.3.0/hst:templates:
+      jcr:primaryType: hst:templates

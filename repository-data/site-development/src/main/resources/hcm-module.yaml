@@ -1,0 +1,6 @@
+site: bloomreach-archetype-13.3.0
+group: bloomreach-archetype-13.3.0
+project: bloomreach-archetype-13.3.0
+module:
+  name: bloomreach-archetype-13.3.0-repository-data-site-development
+  after: bloomreach-archetype-13.3.0-repository-data-site

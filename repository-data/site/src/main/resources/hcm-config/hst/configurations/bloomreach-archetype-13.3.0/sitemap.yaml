@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/bloomreacharchetype13.3.0/hst:sitemap:
+      jcr:primaryType: hst:sitemap

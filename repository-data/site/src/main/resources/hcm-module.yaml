@@ -1,0 +1,6 @@
+group: 
+  name: bloomreach-archetype-13.3.0
+  after: hippo-cms
+project: bloomreach-archetype-13.3.0
+module:
+  name: bloomreach-archetype-13.3.0-repository-data-site
